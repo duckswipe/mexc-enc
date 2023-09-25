@@ -4,7 +4,7 @@ Generates Signatures/Encryption required for MEXC’s private API, since the pub
 
 What I offer:
 * Full Source Code for MEXC Encryption/Signature used for private order / close API and others
-* mhash, mtoken, k0, p0,  
+* Code for mhash, mtoken, k0, p0, chash,  
 * X-MXC-Sign & X-MXC-Nonce headers
 * Telegram: @wallstreet07
 * Discord: @wallstreet0000
