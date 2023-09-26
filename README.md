@@ -8,5 +8,3 @@ What I offer:
 * X-MXC-Sign & X-MXC-Nonce headers
 * Telegram: @wallstreet07
 * Discord: @wallstreet0000
-
-<meta name="google-site-verification" content="eqisr89k1rfm7HcTyQGTBtMNK3iTNl-LlNiKTNpebJI" />
