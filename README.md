@@ -1,4 +1,6 @@
-Generates Signatures/Encryption required for MEXC’s private API, since the public one is limited in certain aspects (may be used by other exchanges as well)
+Generates Signatures/Encryption required for MEXC’s private API, since the public one is limited in certain aspects
+
+This may be used for automated trading on mexc. Message me if you need help.
 
 ![alt text](http://i.ibb.co/0rWLTnw/mxc.png)
 
