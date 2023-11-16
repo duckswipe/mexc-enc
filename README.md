@@ -9,5 +9,5 @@ What I offer:
 * Code for mhash, mtoken, k0, p0, chash,
 * Volume calculation for coin from portfolio percent (.e.g. 1%)
 * X-MXC-Sign & X-MXC-Nonce headers
-* Telegram: @wallstreet07
+* Telegram: @tus1bi
 * Discord: @wallstreet0000
