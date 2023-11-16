@@ -8,6 +8,7 @@ What I offer:
 * Full Source Code for MEXC Encryption/Signature used for private order / close API and others
 * Code for mhash, mtoken, k0, p0, chash,
 * Volume calculation for coin from portfolio percent (.e.g. 1%)
+* API Trial available
 * X-MXC-Sign & X-MXC-Nonce headers
 * Telegram: @tus1bi
 * Discord: @wallstreet0000
