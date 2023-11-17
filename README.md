@@ -10,5 +10,5 @@ What I offer:
 * Volume calculation for coin from portfolio percent (.e.g. 1%)
 * API Trial available
 * X-MXC-Sign & X-MXC-Nonce headers
-* Telegram: @tus1bi
+* Telegram: @tuc1bi
 * Discord: @wallstreet0000
