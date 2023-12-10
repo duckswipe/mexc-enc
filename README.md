@@ -10,5 +10,5 @@ What I offer:
 * Volume calculation for coin from portfolio percent (.e.g. 1%)
 * API Trial available
 * X-MXC-Sign & X-MXC-Nonce headers
-* Telegram: @ketamine_7
+* Telegram: @ketamine07
 * Discord: @wallstreet0000
